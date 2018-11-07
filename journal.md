@@ -1,5 +1,5 @@
 #Title
-Biomass burning aerosol over w. Africa
+Aircraft measurements biomass burning aerosol over w. Africa
 
 #Author
 Sam Bell
