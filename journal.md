@@ -32,4 +32,4 @@ We made some ground breaking discovery! Look at all this future work...except it
 This is where the pretty picutres go (all the data that is in the entire PhD).
 
 # Acknowledgements
-Katie Joy for her edits, Margaret for her silence, Aimee for her distractions and Quidditch for the injuries. 
+Katie Joy for her edits, Margaret for her silence, Aimee for her distractions and Quidditch for the injuries. Finally SB would like to ackwologde her good FRIEND Ben. 
