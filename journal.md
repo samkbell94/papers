@@ -12,3 +12,6 @@ Haywood et al (1999) made some great measurments of BBOA over the Sahara. We add
 
 #Simulations
 John has made some simulations of particle formation using his box model. It reproduces the growth in size distribution observed and suggest coagulation as the dominant method of growth.
+
+#Methodology
+We used an AMS (Allen et al 1999) to measure particle mass andd chemical composition. 
