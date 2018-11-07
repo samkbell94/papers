@@ -16,5 +16,10 @@ John has made some simulations of particle formation using his box model. It rep
 #Methodology
 We used an AMS (Allen et al 1999) to measure particle mass andd chemical composition. 
 
+
+#Results
+We observed partical grwoth through coagulation and report the changing chemical composition with ages in the atmosphere. 
+
+
 #Conclusions
 We made some ground breaking discovery! Look at all this future work...
