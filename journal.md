@@ -1,25 +1,28 @@
-#Title
+# Title
 
 A model-measurement comparison of biomass burning aerosol over w. Africa
 
 
-#Author
+# Author
 Sam Bell
 John Smith
 
-#Introduction
+# Introduction
 Haywood et al (1999) made some great measurments of BBOA over the Sahara. We add to these measurements, with chemical composition data, using an aerosol mass spectrometer (Allen et al 2000). 
 
-#Simulations
+# Simulations
 John has made some simulations of particle formation using his box model. It reproduces the growth in size distribution observed and suggest coagulation as the dominant method of growth.
 
-#Methodology
+# Methodology
 We used an AMS (Allen et al 1999) to measure particle mass andd chemical composition. 
 
 
-#Results
+# Results
 We observed partical grwoth through coagulation and report the changing chemical composition with ages in the atmosphere. 
 
 
-#Conclusions
+# Conclusions
 We made some ground breaking discovery! Look at all this future work...
+
+# Figures
+This is where the pretty picutres go.
