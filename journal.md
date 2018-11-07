@@ -4,8 +4,10 @@ A model-measurement comparison of biomass burning aerosol over w. Africa
 
 
 # Author
+
+Sam Bell Manchester
 John Smith
-Sam Bell
+
 
 
 # Abstract
