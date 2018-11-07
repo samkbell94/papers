@@ -1,7 +1,6 @@
 # Title
 
-A model-measurement comparison of biomass burning aerosol over w. Africa
-
+A model-measurement comparison of biomass burning aerosol over w. Africa and the Moon rocks that are associated with it.
 
 # Author
 
